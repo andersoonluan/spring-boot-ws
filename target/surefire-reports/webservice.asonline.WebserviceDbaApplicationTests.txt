@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: webservice.asonline.WebserviceDbaApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.544 sec - in webservice.asonline.WebserviceDbaApplicationTests
